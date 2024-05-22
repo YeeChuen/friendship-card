@@ -1,0 +1,18 @@
+This FriendshipCard project is similar to BasicContactList project.
+
+In Python best practice, 
+its is better to have a separate virtual environment that is separate from the local machine.
+
+we can do that by running:
+
+`python -m venv venv`
+
+to activate the virtual environment, do
+
+`.\venv\Scripts\activate`
+
+to deactivate active virtual environment, do
+
+`deactivate`
+
+use pip for package management.
