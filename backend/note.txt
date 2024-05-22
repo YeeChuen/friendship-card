@@ -16,3 +16,9 @@ to deactivate active virtual environment, do
 `deactivate`
 
 use pip for package management.
+
+
+rather than writing out requirements one by one, 
+
+use 
+`pip freeze > requirements.txt`
