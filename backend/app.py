@@ -24,7 +24,7 @@ def index(filename):
     filename = "index.html"
   return send_from_directory(dist_folder,filename)
 
-import main
+import routes
 
 with app.app_context():
     db.create_all()

@@ -1,6 +1,6 @@
 # Author(s): Yee Chuen teoh
 
-from config import db
+from app import db
 
 class Friend(db.Model):
     id = db.Column(db.Integer, primary_key=True)

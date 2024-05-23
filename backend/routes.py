@@ -1,7 +1,7 @@
 # Author(s): Yee Chuen teoh
 
 from flask import request, jsonify
-from config import app, db
+from app import app, db
 from models import Friend
 
 @app.route("/api/friends", methods=["GET"])
