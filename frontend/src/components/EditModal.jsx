@@ -47,7 +47,7 @@ function EditModal({ user, handleUpdate}) {
 				<ModalOverlay />
 				<form onSubmit={() => handleEdit()}>
 					<ModalContent>
-						<ModalHeader>My new BFF 😍</ModalHeader>
+						<ModalHeader>Update BFF 🤔</ModalHeader>
 						<ModalCloseButton />
 						<ModalBody pb={6}>
 							<Flex alignItems={"center"} gap={4}>

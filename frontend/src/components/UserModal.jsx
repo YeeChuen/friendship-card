@@ -57,7 +57,7 @@ const UserModal = ({ handleAddFriend }) => {
         <ModalOverlay />
         <form onSubmit={handleSubmit}>
           <ModalContent>
-            <ModalHeader>New Friend Card</ModalHeader>
+            <ModalHeader>New BFF 😍</ModalHeader>
             <ModalCloseButton />
             <ModalBody pb={6}>
               <Flex alignItems={"center"} gap={4}>

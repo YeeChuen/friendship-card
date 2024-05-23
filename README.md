@@ -14,9 +14,7 @@ This project is also aim to understand the deployment process on [Render](https:
 
 ## Usage
 
-friendship-card is also hosted on [FriendshipCard](https://friendshipcard.onrender.com/)
-
-however, for this version, you would need to spin up the backend on your local. follow installation step up to step 3.
+friendship-card is hosted on [FriendshipCard](https://friendshipcard.onrender.com/)
 
 ## Installation
 
