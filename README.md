@@ -40,7 +40,7 @@ deactivate
 3. Open one terminal and run the backend db server:
 ```
 cd backend
-python main.py
+flask run
 ```
 
 4. Open another terminal and run the frontend UI:
