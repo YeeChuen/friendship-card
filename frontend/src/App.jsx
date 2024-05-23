@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar"
 import UserGrid from "./components/UserGrid"
 import React, {useState, useEffect} from "react";
 
-export const baseURL = "http://127.0.0.1:5000/api/friends";
+export const baseURL = "https://friendshipcard.onrender.com/api/friends";
 
 function App() {
   const usersDummy = [
