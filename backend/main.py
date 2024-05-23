@@ -43,7 +43,7 @@ def create_friends():
         db.session.rollback()
         return jsonify({"message": str(e)}), 500
 
-@app.route("/api/friends/<int: id>", methods = ["DELETE"])
+@app.route("/api/friends/<int:id>", methods = ["DELETE"])
 def delete_friend(id):
     try:
         friend = Friend.query.get(id)
@@ -60,7 +60,7 @@ def delete_friend(id):
         db.session.rollback()
         return jsonify({"message": str(e)}), 500
 
-@app.route("/api/friends/<int: id>", methods = ["PATCH"])
+@app.route("/api/friends/<int:id>", methods = ["PATCH"])
 def update_friend(id):
     try:
         response = Friend.query.get(id)
