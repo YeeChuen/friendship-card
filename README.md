@@ -12,6 +12,12 @@ It is built with flaskAPI framework using Python to perform CRUD operation on a 
 
 This project is also aim to understand the deployment process on [Render](https://render.com/).
 
+## Usage
+
+friendship-card is also hosted on [FriendshipCard](https://friendshipcard.onrender.com/)
+
+however, for this version, you would need to spin up the backend on your local. follow installation step up to step 3.
+
 ## Installation
 
 make sure you're at the project directory.
