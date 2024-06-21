@@ -14,7 +14,7 @@ This project is also aim to understand the deployment process on [Render](https:
 
 ## Usage
 
-friendship-card is hosted on [FriendshipCard](https://friendshipcard.onrender.com/)
+friendship-card is hosted on [FriendshipCard](https://friendship-card-static.onrender.com/)
 
 ## Installation
 
